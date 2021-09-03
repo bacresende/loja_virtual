@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt/values-pt.xml",
+            "map": [
+                {
+                    "source": "/home/bruno/.gradle/caches/transforms-2/files-2.1/5232fc3840c97813025126e301fc2739/core-1.2.0/res/values-pt/values-pt.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

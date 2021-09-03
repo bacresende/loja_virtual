@@ -1,0 +1,40 @@
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:26
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:31
+-keep class br.com.bacressendev.loja_virtual.MainActivity { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:251
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:264
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:258
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:242
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:236
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:226
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:232
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:187
+-keep class com.google.firebase.auth.api.fallback.service.FirebaseAuthFallbackService { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:150
+-keep class com.google.firebase.auth.internal.GenericIdpActivity { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:168
+-keep class com.google.firebase.auth.internal.RecaptchaActivity { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:78
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:210
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:201
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:219
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:26
+-keep class io.flutter.app.FlutterApplication { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:144
+-keep class io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:129
+-keep class io.flutter.plugins.imagepicker.ImagePickerFileProvider { <init>(); }
+# Referenced at /home/bruno/Documentos/bitbucket/loja_virtual/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:139
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }

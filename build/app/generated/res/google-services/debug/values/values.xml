@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">692366017757-r9knpnru2l4fvq1j3l9mguchbaddr49o.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">692366017757</string>
+    <string name="google_api_key" translatable="false">AIzaSyDaszUUngV-iq1bAZhug2WOsvTUyh24jEs</string>
+    <string name="google_app_id" translatable="false">1:692366017757:android:5ddef10e273e3a72750734</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDaszUUngV-iq1bAZhug2WOsvTUyh24jEs</string>
+    <string name="google_storage_bucket" translatable="false">loja-virtual-8dade.appspot.com</string>
+    <string name="project_id" translatable="false">loja-virtual-8dade</string>
+</resources>

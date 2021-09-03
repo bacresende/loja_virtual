@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bruno/Documentos/bitbucket/loja_virtual/build/google_api_availability/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/home/bruno/.gradle/caches/transforms-2/files-2.1/5847ca3fcf7a0129bb351b897fc2f7cc/play-services-base-17.2.1/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/home/bruno/Documentos/bitbucket/loja_virtual/build/google_api_availability/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/home/bruno/.gradle/caches/transforms-2/files-2.1/5847ca3fcf7a0129bb351b897fc2f7cc/play-services-base-17.2.1/res/color/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/home/bruno/Documentos/bitbucket/loja_virtual/build/google_api_availability/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/home/bruno/.gradle/caches/transforms-2/files-2.1/5847ca3fcf7a0129bb351b897fc2f7cc/play-services-base-17.2.1/res/color/common_google_signin_btn_text_dark.xml"
+    }
+]
